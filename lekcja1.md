@@ -6,5 +6,9 @@ Login i hasło do komputera
 student
 Start123!
 
-1.identyfikacja
-1.autentyfikacja
+na ostatniej lekcji mamy sprawdzian zaliczający przedmiot.
+
+1. identyfikacja
+1. autentyfikacja
+1. autoryzacja
+1.
