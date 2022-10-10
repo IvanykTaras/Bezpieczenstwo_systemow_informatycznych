@@ -20,3 +20,5 @@ Kryptologia dzieli sie:
 cyptool.org
 
 http://sieci.kis.agh.edu.pl/bezpieczenstwo/
+
+### Lekcja 2
